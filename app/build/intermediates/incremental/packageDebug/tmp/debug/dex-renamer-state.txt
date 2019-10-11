@@ -1,0 +1,4 @@
+#Fri Oct 11 18:17:41 EET 2019
+base.0=/Users/iamkurtgoz/Software/AndroidProjects/WebViewExample/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
